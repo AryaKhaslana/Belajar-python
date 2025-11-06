@@ -14,9 +14,5 @@ murid.nama = "Arya"
 murid.kelas = "XI TJAT 2"
 murid.alamat = "Sidoarjo,gedangan"
 
-print(murid.nama)
-print(murid.kelas)
-print(murid.alamat)
-
 print(murid.info())
         
